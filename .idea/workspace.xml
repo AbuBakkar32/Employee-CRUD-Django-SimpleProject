@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e6c6925-9874-4605-bf75-0baa5c4806c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XFSF6GN4LBZ0K86n3FJbTvLA77" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Envs/test/Scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.23541453" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Project\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Project\static\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6c6925-9874-4605-bf75-0baa5c4806c2" name="Default Changelist" comment="" />
+      <created>1580640242755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580640242755</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582131798555">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1582131798555" />
+    <state x="454" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580656079782">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="454" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1580656079782" />
+    <state x="460" y="124" key="FileChooserDialogImpl" timestamp="1582137618175">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="460" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1582137618175" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1582137648270">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1582137648270" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1582465650315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1582465650315" />
+  </component>
+</project>
